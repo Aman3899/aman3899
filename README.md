@@ -1,4 +1,4 @@
-![logo](https://github.com/Aman3899/Aman3899/blob/main/GithubBanner.png)
+![logo](https://github.com/Aman3899/aman3899/blob/main/Cover.png)
 
 <h1 align="center">Hi 👋, I'm AmanUllah</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
