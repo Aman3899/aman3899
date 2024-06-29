@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Android Development, NextJS, Design & Analysis Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://aman-ullah.netlify.app/](https://aman-ullah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aman-ullah.netlify.app/](https://amanullah0.netlify.app/)
 
 - 💬 Ask me about **C++, C, Java, HTML, CSS, JS**
 
 - 📫 How to reach me **m.amanullah0830@gmail.com**
 
-- 📄 Know about my experiences [https://aman-ullah.netlify.app/MyResume.pdf](https://aman-ullah.netlify.app/MyResume.pdf)
+- 📄 Know about my experiences [https://aman-ullah.netlify.app/MyResume.pdf](https://amanullah0.netlify.app/MyResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
