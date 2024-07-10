@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "VIVO Y53s",
+      "desc": "Vivo Y53s with 8/128 GB with 64/50",
+      "price": 299,
+      "color": "#33505a",
+      "imgURL":"https://th.bing.com/th/id/R.f7ef055987d5f96cc123d9badb3e7532?rik=ewV78j1UEP6Vxw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "name": "OPPO Reno 6",
+      "desc": "Oppo Reno 6 with 8/128 GB with 64/8",
+      "price": 599,
+      "color": "#33505a",
+      "imgURL": "https://th.bing.com/th/id/R.c63346ff8ad30283b36a1025e3a91912?rik=UGHqosv22RopSg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S24 Ultra",
+      "desc": "Samsung S24 Ultra with 12/256 GB with 200/100",
+      "price": 1499,
+      "color": "#33505a",
+      "imgURL": "https://th.bing.com/th/id/OIP.tuyTFaew8LIw5fg9z-0HzAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 14",
+      "desc": "Apple's latest smartphone with advanced features.",
+      "price": 999,
+      "color": "#FFFFFF",
+      "imgURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-og-202209?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1661958160672"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S22",
+      "desc": "Samsung's flagship smartphone with a stunning display.",
+      "price": 849,
+      "color": "#000000",
+      "imgURL": "https://th.bing.com/th/id/OIP.oBH3WqHx9tg2N8_QOJUApgHaI5?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 7,
+      "name": "Google Pixel 7",
+      "desc": "Google's latest smartphone with pure Android experience.",
+      "price": 699,
+      "color": "#34A853",
+      "imgURL": "https://th.bing.com/th/id/OIP.TFtekEezSiT914bcL7ZiegHaHJ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 8,
+      "name": "OnePlus 10 Pro",
+      "desc": "OnePlus' flagship smartphone with a smooth display.",
+      "price": 899,
+      "color": "#F00",
+      "imgURL": "https://th.bing.com/th/id/R.79913863c93d8b430acc31e98ac20e89?rik=HZZZSfQPTWcoCQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 9,
+      "name": "Sony Xperia 1 IV",
+      "desc": "Sony's premium smartphone with an excellent camera.",
+      "price": 1199,
+      "color": "#0000FF",
+      "imgURL": "https://th.bing.com/th/id/OIP.ilKXThWznunSCWsTeaD0mwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Mi 11",
+      "desc": "Xiaomi's high-end smartphone with great performance.",
+      "price": 749,
+      "color": "#FFFFFF",
+      "imgURL": "https://th.bing.com/th/id/OIP.qY4gLDrmdVA4x6p_x2G_OgHaJo?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 11,
+      "name": "Huawei P50 Pro",
+      "desc": "Huawei's premium smartphone with advanced features.",
+      "price": 999,
+      "color": "#FFD700",
+      "imgURL": "https://th.bing.com/th/id/OIP.nJa7suJ03G2qNvzW9Be_NwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 12,
+      "name": "Oppo Find X5 Pro",
+      "desc": "Oppo's flagship smartphone with an innovative design.",
+      "price": 899,
+      "color": "#FFFFFF",
+      "imgURL": "https://th.bing.com/th/id/OIP.dRDZMHqNLXpbQZv_Ecg4wQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 13,
+      "name": "Asus ROG Phone 6",
+      "desc": "Asus' gaming smartphone with high performance.",
+      "price": 1099,
+      "color": "#000000",
+      "imgURL": "https://th.bing.com/th/id/OIP.ikyq60kWVpH7IeR5vi2jewHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 14,
+      "name": "Motorola Edge+ (2022)",
+      "desc": "Motorola's flagship smartphone with a premium design.",
+      "price": 799,
+      "color": "#0000FF",
+      "imgURL": "https://th.bing.com/th/id/OIP.tDO4x8XyJCa6De_fRW1tLQHaJz?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 15,
+      "name": "VIVO Y03",
+      "desc": "Vivo's y03 with 4/64GB ram & rom",
+      "price": 199,
+      "color": "#000FFF",
+      "imgURL": "https://th.bing.com/th/id/OIP.7W_fj1w0uZT8pdQLvSaiCQHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
