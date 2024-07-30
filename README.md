@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [File-Storage System](https://github.com/zohiaby/file-drive)
 
-- 🌱 I’m currently learning **Android Development, NextJS, Design & Analysis Algorithms**
+- 🌱 I’m currently learning **Flutter, NextJS, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://amanullah0.netlify.app/](https://amanullah0.netlify.app/)
 
-- 💬 Ask me about **C++, C, Java, Python, HTML, CSS, JS, MERN, NextJS, Android, Flutter**
+- 💬 Ask me about **C++, C, Java, Python, HTML, CSS, JS, MERN, NextJS, Flutter**
 
 - 📫 How to reach me **m.amanullah0830@gmail.com**
 
