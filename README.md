@@ -1,6 +1,7 @@
-![logo](https://github.com/Aman3899/aman3899/blob/main/Cover.png)
-
-<h1 align="center">Hi 👋, I'm AmanUllah</h1>
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aman Ullah</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.chrisdermody.com/content/images/size/w1000/2017/12/loading-1.gif">
@@ -12,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amanullah0.netlify.app/](https://amanullah0.netlify.app/)
 
-- 💬 Ask me about **C++, C, Java, HTML, CSS, JS**
+- 💬 Ask me about **C++, C, Java, Python, HTML, CSS, JS, MERN, NextJS, Android, Flutter**
 
 - 📫 How to reach me **m.amanullah0830@gmail.com**
 
@@ -41,18 +42,6 @@
 
 
 
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Aman Ullah</h1>
-
-# 💫 About Me :
-- 😄 Pronouns: He/His
-- 🔭 I’m currently building [Pocket FM](https://pocketfm.com/).
-- 🌱 I’m currently learning more about NextJS and Flutter.
-- 💬 Ask me about NextJS, Flutter, or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 3 hours playing to video games every day.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imthepk) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imthepk) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/imthepk) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/hellocodepur) [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/imthepk)
