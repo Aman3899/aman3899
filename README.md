@@ -71,7 +71,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=aman3899&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
