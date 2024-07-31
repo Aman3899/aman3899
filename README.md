@@ -66,7 +66,7 @@
 <p><a href="https://www.buymeacoffee.com/amanullah057"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanullah057" /></a><a href="https://ko-fi.com/amanullah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amanullah" /></a></p><br><br><br>
 
 ## 👨🏻‍💻 OS & Laptop in use
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/HP_ZBook_15_G6-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/HP_ZBook_15_G6-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
 
 <br>
 ## 🎵 Music apps I use
