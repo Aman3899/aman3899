@@ -65,9 +65,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanullah057"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanullah057" /></a><a href="https://ko-fi.com/amanullah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amanullah" /></a></p><br><br><br>
 
-## 👨🏻‍💻 Laptop in use & Favorite Terminal
+## 👨🏻‍💻 OS & Laptop in use
 <img src="https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
-<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
 <br>
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
