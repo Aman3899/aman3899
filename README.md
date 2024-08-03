@@ -74,7 +74,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557CFF.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A80030.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=networking&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=algolia&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-%23F25022.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Tools](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
