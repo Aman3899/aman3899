@@ -85,7 +85,7 @@
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%232E8B57.svg?style=for-the-badge&logo=engineering&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-%23FF69B4.svg?style=for-the-badge&logo=uml&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23FFCC00.svg?style=for-the-badge&logo=agile&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23007ACC.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Code Review](https://img.shields.io/badge/Code%20Review-%23FF4500.svg?style=for-the-badge&logo=review&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-%2300BFFF.svg?style=for-the-badge&logo=testing&logoColor=white)
