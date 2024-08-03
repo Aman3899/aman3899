@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cyj7zqIpITHhXKgjRcoSQOLcJjXzNn0U/view)
 
-  
+  <br><br>
 
 ## 🌐 Socials
 <p align="left">
