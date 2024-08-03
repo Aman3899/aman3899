@@ -72,6 +72,7 @@
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-%23B0B0B0.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=networking&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=algolia&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-%23F25022.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Tools](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
