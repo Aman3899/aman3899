@@ -78,7 +78,8 @@
 ![DSA](https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=algolia&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-%23F25022.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Tools](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
+![Docs](https://img.shields.io/badge/Docs-Ready-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Test Coverage](https://img.shields.io/badge/Test%20Coverage-90%25-brightgreen?style=for-the-badge&logo=codecov&logoColor=white)
 
 
 
