@@ -68,6 +68,11 @@
 ![NPX](https://img.shields.io/badge/npx-%238CC84B.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-%23306998.svg?style=for-the-badge&logo=pypi&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23F80000.svg?style=for-the-badge&logo=junit&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![OS](https://img.shields.io/badge/OS-%23B0B0B0.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=networking&logoColor=white)
+
 
 
 
