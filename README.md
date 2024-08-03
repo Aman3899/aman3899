@@ -4,8 +4,8 @@
          width="45" /> I'm Aman Ullah</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.chrisdermody.com/content/images/size/w1000/2017/12/loading-1.gif">
-- 🔭 I’m currently working on [File-Storage System](https://github.com/zohiaby/file-drive)
+<img align="right" alt="Coding" width="325" src="https://www.chrisdermody.com/content/images/size/w1000/2017/12/loading-1.gif" style="margin-top:20px;">
+- 🔭 I’m currently working on ![File-Storage System](https://github.com/zohiaby/file-drive)
 
 - 🌱 I’m currently learning **Flutter, NextJS, DevOps**
 
