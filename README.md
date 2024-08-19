@@ -103,7 +103,7 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman3899&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=vue" /> <br>
 	<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman3899&show_icons=true&locale=en&layout=compact" alt="aman3899" />
 </p>
 <br>
