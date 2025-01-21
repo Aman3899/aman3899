@@ -103,7 +103,7 @@
 
 
 ### 🤓 Talha's LeetCode Profile
-[![Talha's Leetcode Stats](https://leetcard.jacoblin.cool/f219445?theme=dark&font=Livvic&ext=activity)](https://leetcode.com/f219445)
+[![Aman's Leetcode Stats](https://leetcard.jacoblin.cool/AmanUllah?theme=dark&font=Livvic&ext=activity)](https://leetcode.com/f219445)
 
 ## 📟 GitHub Stats
 <p align="center">
