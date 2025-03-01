@@ -86,7 +86,7 @@
 
 ## 🛠️ Web Development Workflow
 Focus on DevOps, MERN, and Next.js
-```bash
+
 - Modern MERN stack (MongoDB, Express.js, React.js, Node.js) expertise for building scalable and dynamic web applications.
 - Proficient in crafting high-performance, SEO-friendly websites using Next.js's server-side rendering and static site generation capabilities.
 - Implementing continuous integration and continuous deployment (CI/CD) pipelines with tools like Docker, Jenkins, and cloud platforms (AWS, Azure, or Google Cloud).
