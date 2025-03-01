@@ -1,131 +1,166 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Aman Ullah</h1>
-<h3 align="center">A passionate Software Engineer specializing in Web Development from Pakistan</h3>
+<div align="center">
+  <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
+  <h3>A Passionate Software Engineer Specializing in Web & Mobile Development from Pakistan</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+</div>
 
-<img align="right" alt="Coding" width="350" src="https://www.chrisdermody.com/content/images/size/w1000/2017/12/loading-1.gif">
+---
 
-- 🔭 I’m currently working on [File-Storage System](https://github.com/zohiaby/file-drive/) - A modern file management solution built with [Tech Stack - e.g., MERN].
+### 🌟 About Me
+- 🔭 **Currently Working On**: Multiple Next.js projects including:
+  - **[File-Storage System](https://github.com/zohiaby/file-drive/)**: A modern file management solution leveraging the MERN stack (MongoDB, Express.js, React, Node.js) with real-time collaboration features.
+  - **[E-Commerce Platform]**: A scalable, SEO-optimized online store using Next.js 14, TypeScript, and Tailwind CSS, integrated with Stripe for payments.
+  - **[Portfolio V2]**: A revamped personal portfolio with serverless architecture, deployed on Vercel, showcasing advanced animations and micro-interactions.
 
-- 🌱 I’m currently learning **Advanced Flutter UI/UX, Serverless NextJS, and DevOps best practices for streamlined deployment.**
+- 🌱 **Currently Learning**: 
+  - Advanced Next.js techniques (App Router, Server Components).
+  - Flutter for cross-platform app development with a focus on custom UI/UX.
+  - DevOps tools (Kubernetes, CI/CD with GitHub Actions, AWS ECS).
 
-- 👨‍💻 All of my projects, showcasing a wide range of web development skills, are available at [https://amanullah0.netlify.app/](https://amanullah0.netlify.app/)
+- 👨‍💻 **Projects**: Explore my full portfolio at [amanullah0.netlify.app](https://amanullah0.netlify.app/)
+- 💬 **Ask Me About**: Full-Stack Web Development (MERN, Next.js), Mobile Apps (Flutter), DSA (C++, Java, Python), Cloud Deployment.
+- 📫 **Reach Me**: [m.amanullah0830@gmail.com](mailto:m.amanullah0830@gmail.com)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1Cyj7zqIpITHhXKgjRcoSQOLcJjXzNn0U/view)
 
-- 💬 Ask me about **Full-Stack Web Development (MERN, Next.js), Mobile App Development (Flutter), Data Structures & Algorithms (C++, Java, Python), and cloud deployment strategies.**
+---
 
-- 📫 How to reach me **m.amanullah0830@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cyj7zqIpITHhXKgjRcoSQOLcJjXzNn0U/view)
-<br>
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://twitter.com/amanullah0830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanullah0830" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-ullah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aman-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aman-ullah" height="30" width="40" /></a>
-<a href="https://kaggle.com/amanullah057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanullah057" height="30" width="40" /></a>
-<a href="https://fb.com/amanullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanullah" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_ullah057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_ullah057" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aman057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman057" height="30" width="40" /></a>
-</p><br><br>
-
-## 🚀 My Development Toolkit
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%2302569B.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-%235B50D0.svg?style=for-the-badge&logo=haskell&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NPX](https://img.shields.io/badge/npx-%238CC84B.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![pip](https://img.shields.io/badge/pip-%23306998.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%23F80000.svg?style=for-the-badge&logo=junit&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557CFF.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-%23A80030.svg?style=for-the-badge&logo=debian&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%23007ACC.svg?style=for-the-badge&logo=algolia&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-%23F25022.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Adobe Tools](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23000000.svg?style=for-the-badge&logo=design&logoColor=white)
-![UML](https://img.shields.io/badge/UML-%23FF69B4.svg?style=for-the-badge&logo=uml&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23FFCC00.svg?style=for-the-badge&logo=agile&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2300A3E0.svg?style=for-the-badge&logo=selenium&logoColor=white)
-
-## 🛠️ Web Development Workflow
-Focus on DevOps, MERN, and Next.js
-
-- Modern MERN stack (MongoDB, Express.js, React.js, Node.js) expertise for building scalable and dynamic web applications.
-- Proficient in crafting high-performance, SEO-friendly websites using Next.js's server-side rendering and static site generation capabilities.
-- Implementing continuous integration and continuous deployment (CI/CD) pipelines with tools like Docker, Jenkins, and cloud platforms (AWS, Azure, or Google Cloud).
-Use code with caution.
-Markdown
-💡 Concepts
--   **Agile Software Development:**  Emphasize your ability to work within Agile frameworks, promoting iterative development, collaboration, and rapid adaptation to changing project requirements.
--   **Software Design Patterns:**  Highlight your knowledge of common design patterns (e.g., Singleton, Factory, Observer) and your ability to apply them to create robust and maintainable code.
--   **Object-Oriented Programming (OOP):**  Demonstrate your proficiency in OOP principles such as encapsulation, inheritance, and polymorphism, which are essential for building modular and scalable software systems.
--   **Responsive Web Design:**  Showcase your skill in building websites that adapt seamlessly to different screen sizes and devices, ensuring a consistent user experience across platforms.
-Use code with caution.
-💁‍♂️ Support
-<p><a href="https://www.buymeacoffee.com/amanullah057"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanullah057" /></a><a href="https://ko-fi.com/amanullah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amanullah" /></a></p><br><br><br>
-👨🏻‍💻 OS & Laptop
-<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=window&logoColor=white"/> <img src="https://img.shields.io/badge/HP_ZBook_15_G6-0096D6?style=for-the-badge&logo=hp&logoColor=white"/> <br>
-
-🎵 Music Apps
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-<br>
-
-🤓 Aman's LeetCode Profile
-[
-![alt text](https://leetcard.jacoblin.cool/aman_2005?theme=dark&font=Livvic&ext=activity)
-]
-
-😴 Aman's Contribution Graph
-![alt text](https://github-readme-activity-graph.vercel.app/graph?username=aman3899&bg_color=658b73&color=a6fe4d&line=1c1c1c&point=00d60e&area=true&hide_border=false)
-
-📟 GitHub Stats
+### 🌐 Connect with Me
 <p align="center">
-<img width="49%" align="left" src="https://camo.githubusercontent.com/86361f20901409a52ca94fc79cff58bbd77f1281f7e6e7a64a83589aaabbd736/68747470733a2f2f6769746875622d726561646d652d73746174732d616666616e2e76657263656c2e6170702f6170693f757365726e616d653d616666616e2d636826686964655f7469746c653d7472756526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d74727565267468656d653d6769746875625f6461726b266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d322669636f6e5f636f6c6f723d33394433353326626f726465725f636f6c6f723d3339443335332673686f773d726576696577732c64697363757373696f6e735f737461727465642c64697363757373696f6e735f616e7377657265642c7072735f6d65726765642c7072735f6d65726765645f70657263656e74616765"
-<img width="49%" src="https://camo.githubusercontent.com/14b1e4b02a8f1a97fb15999abf714765e241980936cc5719241a7ae3400b9711/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d616666616e2d6368266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6769746875625f6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d3526646174655f666f726d61743d6a2532304d25354225323059253544266f726465723d31" />
+  <a href="https://twitter.com/amanullah0830" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/aman-ullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/aman-ullah" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
+  <a href="https://kaggle.com/amanullah057" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://fb.com/amanullah" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/aman_ullah057" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/c/aman057" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
-<br>
-<br>
-<br>
-<br>
-✍️ Random Dev Quote
-![alt text](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+
+### 🚀 My Tech Stack
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-%233370A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Haskell-%235B50D0.svg?style-for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+
+  <h3>Frontend Development</h3>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style-for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+
+  <h3>Backend Development</h3>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style-for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style-for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-%23000.svg?style-for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style-for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+
+  <h3>DevOps & Tools</h3>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style-for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style-for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style-for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style-for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style-for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style-for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style-for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</div>
+
+---
+
+### 🛠️ Web Development Workflow
+- **Next.js Focus**: Building high-performance, SEO-optimized web apps with Next.js 14, leveraging App Router, Server Components, and Static Site Generation.
+- **MERN Expertise**: Full-stack development with MongoDB, Express.js, React, and Node.js for scalable, dynamic applications.
+- **DevOps Integration**: Implementing CI/CD pipelines with GitHub Actions, Docker, and cloud platforms (Vercel, AWS) for streamlined deployment.
+
+---
+
+### 💡 Core Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-%23FFCC00.svg?style=flat-square&logo=scrum-alliance&logoColor=black" alt="Agile">
+  <img src="https://img.shields.io/badge/Design_Patterns-%23000000.svg?style=flat-square&logo=design&logoColor=white" alt="Design Patterns">
+  <img src="https://img.shields.io/badge/OOP-%23FF69B4.svg?style=flat-square&logo=codeship&logoColor=white" alt="OOP">
+  <img src="https://img.shields.io/badge/Responsive_Design-%23E4405F.svg?style=flat-square&logo=figma&logoColor=white" alt="Responsive Design">
+</p>
+
+- **Agile**: Iterative development and rapid adaptation to project needs.
+- **Design Patterns**: Applying Singleton, Factory, and Observer patterns for robust code.
+- **OOP**: Mastery of encapsulation, inheritance, and polymorphism.
+- **Responsive Design**: Ensuring seamless UX across devices.
+
+---
+
+### 🔮 Future Projects & Extensions
+- **Next.js SaaS Platform**: A multi-tenant SaaS app with user authentication, billing, and analytics.
+- **Flutter Game**: A cross-platform 2D game with real-time multiplayer features.
+- **AI-Powered Tool**: Integrating machine learning models into web apps for smarter user experiences.
+- **Open-Source Contributions**: Planning to contribute to Next.js, Flutter, and DevOps tools.
+
+---
+
+### 💁‍♂️ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amanullah057"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/amanullah"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"></a>
+</p>
+
+---
+
+### 👨🏻‍💻 OS & Hardware
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_11-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+  <img src="https://img.shields.io/badge/HP_ZBook_15_G6-%230096D6.svg?style=for-the-badge&logo=hp&logoColor=white" alt="HP ZBook">
+</p>
+
+---
+
+### 🎵 Music Apps
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  <img src="https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+  <img src="https://img.shields.io/badge/YouTube_Music-%23FF0000.svg?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
+</p>
+
+---
+
+### 🤓 LeetCode Profile
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/aman_2005?theme=dark&font=Livvic&ext=activity" alt="LeetCode Stats">
+</div>
+
+---
+
+### 😴 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman3899&bg_color=1a202c&color=60a5fa&line=4c51bf&point=60a5fa&area=true&hide_border=true" alt="Contribution Graph">
+</div>
+
+---
+
+### 📟 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman3899&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=radical&hide_border=true" alt="Streak Stats">
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote">
+</div>
+
+---
 
 <div align="center">
+  <h3>Thanks for Visiting! 🚀</h3>
+  <p>Built with 💻 and ☕ by Aman Ullah</p>
 </div>
