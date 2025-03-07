@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Muhammad Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
+  <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
   <h3>A Passionate Software Engineer Specializing in Web & Mobile Development from Pakistan</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
@@ -146,7 +146,7 @@
 
 <div align="center">
   <h3>Thanks for visiting! 👨‍💻</h3>
-  <p>Built with ❤️ by Muhammad Aman Ullah</p>
+  <p>Built with ❤️ by Aman Ullah</p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=brightgreen&style=flat-square)
 </div>
