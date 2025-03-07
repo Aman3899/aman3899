@@ -17,8 +17,8 @@
   - Flutter for cross-platform app development with a focus on custom UI/UX.
   - DevOps tools (Kubernetes, CI/CD with GitHub Actions, AWS ECS).
 
-- 👨‍💻 **Projects**: Explore my full portfolio at [amanullah0.netlify.app](https://amanullah0.netlify.app/)
-- 💬 **Ask Me About**: Full-Stack Web Development (MERN, Next.js), Mobile Apps (Flutter), DSA (C++, Java, Python), Cloud Deployment.
+- 👨‍💻 **Projects**: Explore my full portfolio at [Portfolio ->](https://amanullah-portfolio.vercel.app/)
+- 💬 **Ask Me About**: Full-Stack Web Development (MERN, Next.js), Mobile Apps (Flutter), DSA (C++, Java, Python), DevOps.
 - 📫 **Reach Me**: [m.amanullah0830@gmail.com](mailto:m.amanullah0830@gmail.com)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1Cyj7zqIpITHhXKgjRcoSQOLcJjXzNn0U/view)
 
