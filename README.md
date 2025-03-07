@@ -18,8 +18,8 @@
 ## 🚀 Quick Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullah&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aman3899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ## 🌟 About Me
@@ -48,6 +48,8 @@
   ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
   
   ### Frontend
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -56,6 +58,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
   
   ### Backend
   ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -63,6 +66,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
   
   ### DevOps & Tools
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -70,17 +74,20 @@
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-  
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 </div>
 
 ## 🛠️ Web Development Workflow
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanullah&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman3899&bg_color=1a1b27&color=628fdb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 - **Next.js Focus**: Building high-performance, SEO-optimized web apps with Next.js 14
 - **MERN Expertise**: Full-stack development with MongoDB, Express.js, React, and Node.js
+- **GraphQL Implementation**:  Building efficient APIs using GraphQL
 - **DevOps Integration**: CI/CD pipelines with GitHub Actions, Docker, and cloud platforms
 
 ## 💡 Core Skills
@@ -92,6 +99,7 @@
   <img src="https://img.shields.io/badge/Responsive_Design-%23E4405F.svg?style=flat-square&logo=figma&logoColor=white" alt="Responsive Design">
   <img src="https://img.shields.io/badge/REST_APIs-%2343853D.svg?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
   <img src="https://img.shields.io/badge/Cloud_Services-%234285F4.svg?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Services">
+  <img src="https://img.shields.io/badge/Microservices-%23FFA500.svg?style=flat-square&logo=microsoft&logoColor=white" alt="Microservices">
 </div>
 
 ## 🧩 LeetCode Stats
@@ -106,11 +114,12 @@
 - **Flutter Game**: Cross-platform 2D game with real-time multiplayer features
 - **AI-Powered Tool**: Web applications with ML/AI integration for smarter experiences
 - **Open-Source Contributions**: Planning to contribute to Next.js, Flutter ecosystems
+- **Blockchain Integration**: Exploring Web3 and smart contract development
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanullah&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman3899&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 </div>
 
 ## 💁‍♂️ Support Me
@@ -139,5 +148,5 @@
   <h3>Thanks for visiting! 👨‍💻</h3>
   <p>Built with ❤️ by Muhammad Aman Ullah</p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=amanullah&color=brightgreen&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=brightgreen&style=flat-square)
 </div>
