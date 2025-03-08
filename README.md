@@ -7,8 +7,7 @@
 <div align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amanullah0830)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://linkedin.com/in/aman-ullah)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanullah0)
   [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/aman-ullah)
   [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/amanullah057)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman_ullah057)
