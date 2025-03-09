@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=brightgreen&style=flat-square)
+
 <div align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amanullah0830)
@@ -140,6 +142,4 @@
 <div align="center">
   <h3>Thanks for visiting! 👨‍💻</h3>
   <p>Built with ❤️ by Aman Ullah</p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=brightgreen&style=flat-square)
 </div>
