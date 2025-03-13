@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aman3899&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
 <div align="center">
   <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
