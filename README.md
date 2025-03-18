@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
-  <h3>A Software Engineer with a Proven Track Record in Web and Mobile Development, Based in Pakistan.</h3>
+  <h3>A Software Engineer with a Proven Track Record in Web and Mobile Dev, Based in Pakistan.</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
 
@@ -10,6 +10,7 @@
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amanullah0830)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanullah0)
+
   [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24649122/aman-ullah)
   [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/amanullah057)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman_ullah057)
