@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hello, I'm Aman Ullah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
-  <h3>A Software Engineer with a Proven Track Record in Web and Mobile Dev, Based in Pakistan.</h3>
+  <h3>Software Engineer with a Proven Track Record in Web and Mobile Dev, Based in Pakistan.</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </div>
 
