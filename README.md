@@ -117,8 +117,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman3899&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman3899&theme=tokyonight" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman3899&theme=tokyonight" />
 </div>
+
 
 ## 💁‍♂️ Support Me
 
