@@ -21,8 +21,10 @@
 ## 🚀 Quick Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aman3899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aman3899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> -->
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3899&theme=tokyonight&hide_border=true" alt="Streak Stats"/> -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman3899&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=aman3899&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ## 🌟 About Me
@@ -102,7 +104,7 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aman_2005?theme=dark&font=Livvic&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/amanullah0830?theme=dark&font=Livvic&ext=activity" alt="LeetCode Stats">
 </div>
 
 ## 🔮 Future Projects
